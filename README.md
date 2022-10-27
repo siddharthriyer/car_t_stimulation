@@ -17,4 +17,4 @@ The 'bin' folder contains code in python for the computational analysis in Figur
 Download the repository and ensure that you have the python packages listed in 'requirements.txt'. Open the 'APCms Analysis' notebook and click 'Run All'. In the notebook there are options that one can alter such as repeating parameter tuning, but the default settings and current configuration will produce the results shown in the paper.
 
 
-For any questions please email Siddharth Iyer at iyers@mit.edu
+For any questions, please email Siddharth Iyer at iyers@mit.edu.
