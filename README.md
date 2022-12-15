@@ -18,3 +18,4 @@ Download the repository and ensure that you have the python packages listed in '
 
 
 For any questions, please email Siddharth Iyer at iyers@mit.edu.
+[![DOI](https://zenodo.org/badge/556846863.svg)](https://zenodo.org/badge/latestdoi/556846863)
